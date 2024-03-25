@@ -1,0 +1,47 @@
+NÍVEL,ÁREA PROFISSIONAL,POLO,INSCRITOS TOTAL,VAGAS TOTAL,DEMANDA TOTAL,INSCRITOS AC,VAGAS AC,DEMANDA AC,INSCRITOS PCD,VAGAS PCD,DEMANDA PCD,INSCRITOS PN,VAGAS PN,DEMANDA PN,INSCRITOS TOTAL.1,VAGAS TOTAL.1,DEMANDA TOTAL.1,INSCRITOS AC.1,VAGAS AC.1,DEMANDA AC.1,INSCRITOS PCD.1,VAGAS PCD.1,DEMANDA PCD.1,INSCRITOS PN.1,VAGAS PN.1,DEMANDA PN.1
+Nível Técnico,Ênfase 1: Enfermagem do Trabalho,IPOJUCA,1478,2,739,1478,1,1478,20,1,20,275,0,nan,1478,14,105.57,1478,8,184.75,20,3,6.67,275,3,91.67
+Nível Técnico,Ênfase 1: Enfermagem do Trabalho,SUDESTE,8021,7,1145.86,8021,4,2005.25,99,2,49.50,1765,1,1765.00,8021,49,163.69,8021,29,276.59,99,10,9.90,1765,10,176.50
+Nível Técnico,Ênfase 1: Enfermagem do Trabalho,SUL,8021,7,1145.86,8021,4,2005.25,99,2,49.50,1765,1,1765.00,8021,49,163.69,8021,29,276.59,99,10,9.90,1765,10,176.50
+Nível Técnico,Ênfase 2: Inspeção de Equipamentos e Instalações,IPOJUCA,362,3,120.67,362,1,362,8,1,8,85,1,85,362,21,17.24,362,12,30.17,8,5,1.6,85,4,21.25
+Nível Técnico,Ênfase 2: Inspeção de Equipamentos e Instalações,SUDESTE,2576,30,85.87,2576,18,143.11,43,6,7.17,511,6,85.17,2576,210,12.27,2576,126,20.44,43,42,1.02,511,42,12.17
+Nível Técnico,Ênfase 2: Inspeção de Equipamentos e Instalações,SUL,352,3,117.33,352,1,352,10,1,10,52,1,52,352,21,16.76,352,12,29.33,10,5,2,52,4,13
+Nível Técnico,Ênfase 3: Logística de Transportes - Controle,SUDESTE,9310,23,404.78,9310,13,716.15,186,5,37.2,1986,5,397.2,9310,161,57.83,9310,96,96.98,186,33,5.64,1986,32,62.06
+Nível Técnico,Ênfase 3: Logística de Transportes - Controle,SUL,1352,2,676,1352,1,1352,24,1,24,173,0,nan,1352,14,96.57,1352,8,169,24,3,8,173,3,57.67
+Nível Técnico,Ênfase 4: Manutenção - Calderaria,IPOJUCA,308,4,77,308,2,154,5,1,5,78,1,78,308,28,11,308,16,19.25,5,6,0.83,78,6,13
+Nível Técnico,Ênfase 4: Manutenção - Calderaria,SUDESTE,1828,34,53.76,1828,20,91.4,20,7,2.86,482,7,68.86,1828,238,7.68,1828,142,12.87,20,48,0.42,482,48,10.04
+Nível Técnico,Ênfase 4: Manutenção - Calderaria,SUL,340,8,42.50,340,4,85.00,4,2,2.00,50,2,25.00,340,56,6.07,340,33,10.30,4,12,0.33,50,11,4.55
+Nível Técnico,Ênfase 5: Manutenção - Elétrica,SUL,340,8,42.50,340,4,85.00,4,2,2.00,50,2,25.00,340,56,6.07,340,33,10.30,4,12,0.33,50,11,4.55
+Nível Técnico,Ênfase 5: Manutenção - Elétrica,IPOJUCA,340,8,42.50,340,4,85.00,4,2,2.00,50,2,25.00,340,56,6.07,340,33,10.30,4,12,0.33,50,11,4.55
+Nível Técnico,Ênfase 5: Manutenção - Elétrica,SUDESTE,11807,50,236.14,11807,30,393.57,157,10,15.7,2635,10,263.5,11807,350,33.73,11807,210,56.22,157,70,2.24,2635,70,37.64
+Nível Técnico,Ênfase 6: Manutenção - Instrumentação,IPOJUCA,478,3,159.33,478,1,478,5,1,5,98,1,98,478,21,22.76,478,12,39.83,5,5,1,98,4,24.5
+Nível Técnico,Ênfase 6: Manutenção - Instrumentação,SUDESTE,5416,51,106.2,5416,30,180.53,91,11,8.27,1141,10,114.1,5416,357,15.17,5416,214,25.31,91,72,1.26,1141,71,16.07
+Nível Técnico,Ênfase 6: Manutenção - Instrumentação,SUL,461,4,115.25,461,2,230.5,10,1,10,62,1,62,461,28,16.46,461,16,28.81,10,6,1.67,62,6,10.33
+Nível Técnico,Ênfase 7: Manutenção - Mecânica,IPOJUCA,1249,3,416.33,1249,1,1249,15,1,15,319,1,319,1249,21,59.48,1249,12,104.08,15,5,3,319,4,79.75
+Nível Técnico,Ênfase 7: Manutenção - Mecânica,SUDESTE,13313,70,190.19,13313,42,316.98,198,14,14.14,2995,14,213.93,13313,490,27.17,13313,294,45.28,198,98,2.02,2995,98,30.56
+Nível Técnico,Ênfase 7: Manutenção - Mecânica,SUL,1411,5,282.20,1411,3,470.33,19,1,19.00,191,1,191.00,1411,35,40.31,1411,21,67.19,19,7,2.71,191,7,27.29
+Nível Técnico,Ênfase 8: Operação,SUL,1411,5,282.20,1411,3,470.33,19,1,19.00,191,1,191.00,1411,35,40.31,1411,21,67.19,19,7,2.71,191,7,27.29
+Nível Técnico,Ênfase 8: Operação,IPOJUCA,1411,5,282.20,1411,3,470.33,19,1,19.00,191,1,191.00,1411,35,40.31,1411,21,67.19,19,7,2.71,191,7,27.29
+Nível Técnico,Ênfase 8: Operação,SUDESTE,15531,206,75.39,15531,123,126.27,288,42,6.86,3531,41,86.12,15531,1442,10.77,15531,865,17.95,288,289,1,3531,288,12.26
+Nível Técnico,Ênfase 9: Operação de Lastro,SUDESTE,1477,16,92.31,1477,9,164.11,34,4,8.5,358,3,119.33,1477,112,13.19,1477,67,22.04,34,23,1.48,358,22,16.27
+Nível Técnico,"Ênfase 10: Projetos, Construção e Montagem - Edificações",IPOJUCA,1045,1,1045,1045,1,1045,12,0,nan,201,0,nan,1045,7,149.29,1045,4,261.25,12,2,6,201,1,201
+Nível Técnico,"Ênfase 10: Projetos, Construção e Montagem - Edificações",SUDESTE,4774,7,682,4774,4,1193.5,62,2,31,888,1,888,4774,49,97.43,4774,29,164.62,62,10,6.2,888,10,88.8
+Nível Técnico,"Ênfase 10: Projetos, Construção e Montagem - Edificações",SUL,642,3,214,642,1,642,11,1,11,91,1,91,642,21,30.57,642,12,53.5,11,5,2.2,91,4,22.75
+Nível Técnico,"Ênfase 11: Projetos, Construção e Montagem - Elétrica",IPOJUCA,425,3,141.67,425,1,425,8,1,8,78,1,78,425,21,20.24,425,12,35.42,8,5,1.6,78,4,19.5
+Nível Técnico,"Ênfase 11: Projetos, Construção e Montagem - Elétrica",SUDESTE,1583,8,197.88,1583,4,395.75,17,2,8.5,312,2,156,1583,56,28.27,1583,33,47.97,17,12,1.42,312,11,28.36
+Nível Técnico,"Ênfase 12: Projetos, Construção e Montagem - Instrumentação",SUDESTE,589,7,84.14,589,4,147.25,11,2,5.5,117,1,117,589,49,12.02,589,29,20.31,11,10,1.1,117,10,11.7
+Nível Técnico,"Ênfase 12: Projetos, Construção e Montagem - Instrumentação",SUL,101,1,101,101,1,101,1,0,nan,12,0,nan,101,7,14.43,101,4,25.25,1,2,0.5,12,1,12
+Nível Técnico,"Ênfase 13: Projetos, Construção e Montagem - Mecânica",IPOJUCA,341,3,113.67,341,1,341,7,1,7,76,1,76,341,21,16.24,341,12,28.42,7,5,1.4,76,4,19
+Nível Técnico,"Ênfase 13: Projetos, Construção e Montagem - Mecânica",SUDESTE,2490,25,99.60,2490,15,166.00,44,5,8.80,435,5,87.00,2490,175,14.23,2490,105,23.71,44,35,1.26,435,35,12.43
+Nível Técnico,"Ênfase 13: Projetos, Construção e Montagem - Mecânica",SUL,2490,25,99.60,2490,15,166.00,44,5,8.80,435,5,87.00,2490,175,14.23,2490,105,23.71,44,35,1.26,435,35,12.43
+Nível Técnico,Ênfase 14: Química de Petróleo,IPOJUCA,1215,9,135,1215,5,243,13,2,6.5,233,2,116.5,1215,63,19.29,1215,37,32.84,13,13,1,233,13,17.92
+Nível Técnico,Ênfase 14: Química de Petróleo,SUDESTE,6494,63,103.08,6494,37,175.51,99,13,7.62,1143,13,87.92,6494,441,14.73,6494,264,24.6,99,89,1.11,1143,88,12.99
+Nível Técnico,Ênfase 14: Química de Petróleo,SUL,1435,11,130.45,1435,6,239.17,23,3,7.67,105,2,52.5,1435,77,18.64,1435,46,31.2,23,16,1.44,105,15,7
+Nível Técnico,Ênfase 15: Segurança do Trabalho,IPOJUCA,2349,5,469.8,2349,3,783,37,1,37,473,1,473,2349,35,67.11,2349,21,111.86,37,7,5.29,473,7,67.57
+Nível Técnico,Ênfase 15: Segurança do Trabalho,SUDESTE,14215,76,187.04,14215,45,315.89,320,16,20,3117,15,207.8,14215,532,26.72,14215,319,44.56,320,107,2.99,3117,106,29.41
+Nível Técnico,Ênfase 15: Segurança do Trabalho,SUL,1821,10,182.1,1821,6,303.5,46,2,23,280,2,140,1821,70,26.01,1821,42,43.36,46,14,3.29,280,14,20
+Nível Técnico,Ênfase 16: Suprimento de Bens e Serviços - Administração,IPOJUCA,3036,3,1012,3036,1,3036,98,1,98,661,1,661,3036,21,144.57,3036,12,253,98,5,19.6,661,4,165.25
+Nível Técnico,Ênfase 16: Suprimento de Bens e Serviços - Administração,SUDESTE,29854,95,314.25,29854,57,523.75,971,19,51.11,6076,19,319.79,29854,665,44.89,29854,399,74.82,971,133,7.3,6076,133,45.68
+Nível Técnico,Ênfase 16: Suprimento de Bens e Serviços - Administração,SUL,2605,3,868.33,2605,1,2605,78,1,78,338,1,338,2605,21,124.05,2605,12,217.08,78,5,15.6,338,4,84.5
+TOTAL,nan,nan,161460,916,-,161460,531,-,3214,199,-,33024,186,-,161460,6412,-,161460,3830,-,3214,1303,-,33024,1279,-
+OBS: LEGENDA: AC = Ampla Concorrência / PCD = Pessoa com Deficiência / PN = Pessoa Negra,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+"*não haverá reserva de vaga para pessoa com deficiência ou para pessoa negra para a contratação imediata em razão do quantitativo oferecido, sendo mantido cadastro de reserva.",nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
