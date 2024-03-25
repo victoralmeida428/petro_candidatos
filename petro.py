@@ -3,8 +3,11 @@ import pandas as pd
 import json
 import plotly.express as px
 
+st.set_page_config(page_title='Petrobras',page_icon='https://petrobras.com.br/o/tema-site-externo-petrobras/images/favicon.ico')
+
 with open('geojson.json','r') as file:
     geo = json.loads(file.read())
+
 df = pd.read_csv('petro tratado.csv')
 df.dropna(subset='POLO', inplace=True)
 df.drop('NÍVEL', axis=1, inplace=True)
